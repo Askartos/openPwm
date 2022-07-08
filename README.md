@@ -1,2 +1,2 @@
 # openPwm
-pwm implementations in systemverilog
+some pwm implementations in systemverilog
